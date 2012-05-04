@@ -1,4 +1,4 @@
-package com.wakaleo.gameoflife.webtests;
+ackage com.wakaleo.gameoflife.webtests;
 
 import com.wakaleo.gameoflife.webtests.requirements.GameOfLifeApplication;
 import com.wakaleo.gameoflife.webtests.steps.PlayerSteps;
